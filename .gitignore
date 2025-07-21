@@ -1,0 +1,19 @@
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de cache e configuração do VS Code
+.vscode/
+*.code-workspace
+
+# Arquivos de log e temporários genéricos
+*.log
+*.tmp
+*~
+*.swp
+.env
+
+# Arquivos gerados por ferramentas de build/pacotes
+node_modules/
+dist/
+build/
