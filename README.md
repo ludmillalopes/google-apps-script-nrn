@@ -1,11 +1,9 @@
-<header style="text-align:center">
-    <span>
-        <a href="" target="_blank"><img alt="Propriedade" src="https://img.shields.io/badge/Propriedade-Empresarial-blue"></a>
-    </span>
-    <h1>Automação de Processos com Google Apps Script</h1>
-    <p>Este repositório contém exemplos de automações desenvolvidas para otimização de fluxos de trabalho no Google Sheets.</p>
-    <h4>🚧 EM CONSTRUÇÃO 🚀 🚧</h4>
-</header>
+![Static Badge](https://img.shields.io/badge/Propriedade-Empresarial-blue)
+
+# Automação de Processos com Google Apps Script
+Este repositório contém exemplos de automações desenvolvidas para otimização de fluxos de trabalho no Google Sheets.
+
+🚧 EM CONSTRUÇÃO 🚀 🚧
 
 ## 🚀 Visão Geral do Projeto
 
@@ -21,7 +19,7 @@ Este repositório apresenta um conjunto de scripts em Google Apps Script desenvo
 * Geração de contratos
 * Envio de documentos para assinatura digital
 * Controle financeiro
-* Consulta de CNPJ
+* Consulta de CNPJ por API
 
 ---
 
@@ -59,7 +57,7 @@ Houve uma significativa redução de custos com serviços externos de automaçã
 ## 👩🏻‍💻 Autor
 
 <a href="https://github.com/ludmillalopes" target="_blank">
-    <img src="https://unavatar.io/github/ludmillalopes" alt="Avatar de Ludmilla Lopes" style="width:115px;border-radius: 50%"><br>
+    <img src="https://unavatar.io/github/ludmillalopes" alt="Avatar de Ludmilla Lopes" width="120px"><br>
     <b>Ludmilla Lopes 🚀</b>
 </a>
 
